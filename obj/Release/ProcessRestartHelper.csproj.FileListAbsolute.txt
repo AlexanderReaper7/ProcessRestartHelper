@@ -1,0 +1,7 @@
+C:\Users\Alexander Öberg\Projects\ProcessRestartHelper\bin\Release\ProcessRestartHelper.exe.config
+C:\Users\Alexander Öberg\Projects\ProcessRestartHelper\bin\Release\ProcessRestartHelper.exe
+C:\Users\Alexander Öberg\Projects\ProcessRestartHelper\bin\Release\ProcessRestartHelper.pdb
+C:\Users\Alexander Öberg\Projects\ProcessRestartHelper\obj\Release\ProcessRestartHelper.csprojAssemblyReference.cache
+C:\Users\Alexander Öberg\Projects\ProcessRestartHelper\obj\Release\ProcessRestartHelper.exe
+C:\Users\Alexander Öberg\Projects\ProcessRestartHelper\obj\Release\ProcessRestartHelper.pdb
+C:\Users\Alexander Öberg\Projects\ProcessRestartHelper\obj\Release\ProcessRestartHelper.csproj.CoreCompileInputs.cache

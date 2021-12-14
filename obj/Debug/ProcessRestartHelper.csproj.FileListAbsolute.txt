@@ -1,0 +1,10 @@
+C:\Users\Alexander Öberg\Projects\ProcessRestartHelper\bin\Debug\ProcessRestartHelper.exe.config
+C:\Users\Alexander Öberg\Projects\ProcessRestartHelper\bin\Debug\ProcessRestartHelper.exe
+C:\Users\Alexander Öberg\Projects\ProcessRestartHelper\bin\Debug\ProcessRestartHelper.pdb
+C:\Users\Alexander Öberg\Projects\ProcessRestartHelper\obj\Debug\ProcessRestartHelper.csprojAssemblyReference.cache
+C:\Users\Alexander Öberg\Projects\ProcessRestartHelper\obj\Debug\ProcessRestartHelper.exe
+C:\Users\Alexander Öberg\Projects\ProcessRestartHelper\obj\Debug\ProcessRestartHelper.pdb
+C:\Users\Alexander Öberg\Projects\Networking_Game\Networking_Game\bin\Windows\x86\Debug\ProcessRestartHelper.exe.config
+C:\Users\Alexander Öberg\Projects\Networking_Game\Networking_Game\bin\Windows\x86\Debug\ProcessRestartHelper.exe
+C:\Users\Alexander Öberg\Projects\Networking_Game\Networking_Game\bin\Windows\x86\Debug\ProcessRestartHelper.pdb
+C:\Users\Alexander Öberg\Projects\ProcessRestartHelper\obj\Debug\ProcessRestartHelper.csproj.CoreCompileInputs.cache
